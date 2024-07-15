@@ -1,4 +1,7 @@
-# React + Vite
+# You can view the project by clicking below link 
+
+<h2>https://turbo-typer.netlify.app/</h2>
+
 Hi ...
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
